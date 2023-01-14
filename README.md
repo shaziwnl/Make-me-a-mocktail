@@ -68,3 +68,6 @@ This project takes inspiration from <a href="https://myfridgefood.com/" target="
 Sharang Goel: s4goel@uwaterloo.ca
 
 Helios He: h22he@uwaterloo.ca
+
+Priyanshi Ramani: pramani@uwaterloo.ca
+
