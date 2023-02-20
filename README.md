@@ -61,7 +61,7 @@ Sample Output
 Project is *complete*
 
 ## Room for improvement
-To use a larger dataset that does not require images to exist within the same directory
+To use a larger dataset that is not a limited list
 
 ## Acknowledgements
 This project takes inspiration from <a href="https://myfridgefood.com/" target="_blank">MyFridgeFood</a>
